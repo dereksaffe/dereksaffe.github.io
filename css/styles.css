@@ -1,7 +1,8 @@
 /* Typography */
 
 html {
-	font-family: 'Roboto', sans-serif;
+  font-family: 'Roboto', sans-serif;
+  height:100%;
 }
 
 @media (min-width: 576px) {
@@ -27,6 +28,8 @@ html {
 		font-size: 20px;
 	}
 }
+
+
 
 .examples{
   display: flex;
