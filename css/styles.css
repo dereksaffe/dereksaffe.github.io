@@ -43,9 +43,12 @@ body{
   line-height: 1.5;
 }
 
+.project-title{
+  color: #bce7fd;
+}
+
 .examples a {
   text-decoration: none;
-  color: #bce7fd;
 }
 
 .examples a:hover {
@@ -55,6 +58,14 @@ body{
 
 .examples h1{
   font-weight: bold;
+}
+
+.stack {
+  color: black;
+}
+
+.stack a:hover {
+  color: white;
 }
 
 .icons-social i {
@@ -84,7 +95,6 @@ main > .tagline {
 	margin: 1.5rem 0;
 	font-weight: 100;
 }
-
 
 .icons-social i {
 	padding: 10px;
