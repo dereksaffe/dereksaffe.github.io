@@ -40,11 +40,11 @@ body{
   justify-content: center;
   flex-direction: column;
   margin: 1.5rem;
-  line-height: 1.5;
+  line-height: 1.75;
 }
 
 .project-title{
-  color: #bce7fd;
+  color: white;
 }
 
 .examples a {
